@@ -110,21 +110,13 @@ Tecnologias:
 
 ---
 
-## 📈 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NAILTONSR11&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAILTONSR11&layout=compact&theme=github_dark)
-
----
-
 ## 📫 Contato
 
 💼 LinkedIn:
 https://linkedin.com/in/nailton-rodrigues-092808252
 
 📧 Email:
-seuemail@email.com
+nailtonsr01@email.com
 
 🌐 Portfólio
 Em desenvolvimento...
